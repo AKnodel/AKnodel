@@ -4,12 +4,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-👋 Hi, I’m @AKnodel
-👀 I’m interested in AI, machine learning, and building innovative software solutions.
-🌱 I’m currently learning advanced natural language processing and game development techniques.
-📫 How to reach me: [akshatkabra06@gmail.com]
-😄 Pronouns: He/Him
-🚀 Current focus: Bringing AI and machine learning technologies to a broader audience by making them more accessible and impactful across various industries.
+- 👋 Hi, I’m @AKnodel
+- 👀 I’m interested in AI, machine learning, and building innovative software solutions.
+- 😄 Pronouns: He/Him
+- 🚀 Current focus: Bringing AI and machine learning technologies to a broader audience by making them more accessible and impactful across various industries.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshat-kabra?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BhdWygwK4TKafIbtSTv2yvg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile) 
