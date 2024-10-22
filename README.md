@@ -1,19 +1,15 @@
-- 👋 Hi, I’m @AKnodel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <!---
 AKnodel/AKnodel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-Hi there! I'm AKnodel, a passionate developer with a strong interest in AI, machine learning, and software development. I enjoy building projects that solve real-world problems and constantly push myself to learn new technologies. Check out my repositories for projects ranging from AI-powered tools to game development! Let's connect and collaborate on exciting open-source endeavors.
-
+👋 Hi, I’m @AKnodel
+👀 I’m interested in AI, machine learning, and building innovative software solutions.
+🌱 I’m currently learning advanced natural language processing and game development techniques.
+📫 How to reach me: [akshatkabra06@gmail.com]
+😄 Pronouns: He/Him
+🚀 Current focus: Bringing AI and machine learning technologies to a broader audience by making them more accessible and impactful across various industries.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshat-kabra?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BhdWygwK4TKafIbtSTv2yvg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile) 
